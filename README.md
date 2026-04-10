@@ -1,3 +1,11 @@
+![TrueNAS](https://img.shields.io/badge/TrueNAS-CORE_13.0-0093D5?logo=truenas&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-Workstation-607078?logo=vmware&logoColor=white)
+![ZFS](https://img.shields.io/badge/ZFS-Filesystem-2E8B57)
+![SMB](https://img.shields.io/badge/SMB-File_Sharing-0078D4?logo=microsoft&logoColor=white)
+![SFTP](https://img.shields.io/badge/SFTP-Secure_Transfer-4D4D4D?logo=openssh&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # TrueNAS Implementation Lab
 
 A hands-on laboratory documenting the installation, configuration, and troubleshooting of **TrueNAS CORE 13.0** in a virtualized environment using VMware Workstation.
