@@ -1,13 +1,15 @@
-[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab)
-[![Relatório](https://img.shields.io/badge/Relatório-PDF-blue)](./TrueNAS_Lab_Final_v3.pdf)
-[![TrueNAS Docs](https://img.shields.io/badge/TrueNAS-Documentation-0093D5?logo=truenas&logoColor=white)](https://www.truenas.com/docs/)
-[![VMware](https://img.shields.io/badge/VMware-Workstation-607078?logo=vmware&logoColor=white)](https://www.vmware.com/products/workstation-pro.html)
-[![ZFS](https://img.shields.io/badge/ZFS-Filesystem-2E8B57)](https://openzfs.github.io/openzfs-docs/)
-[![SMB](https://img.shields.io/badge/SMB-File_Sharing-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview)
-[![SFTP](https://img.shields.io/badge/SFTP-Secure_Transfer-4D4D4D?logo=openssh&logoColor=white)](https://datatracker.ietf.org/doc/html/rfc4253)
-[![Issues](https://img.shields.io/github/issues/filipecastanheira-rgb/truenas-implementation-lab)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/issues)
-[![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
-[![Author](https://img.shields.io/badge/Author-Filipe_Castanheira-blue?logo=github)](https://github.com/filipecastanheira-rgb)
+[![01 Environment](https://img.shields.io/badge/01-Environment-blue)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/tree/main/01-environment)
+[![02 Storage Pools](https://img.shields.io/badge/02-Storage_Pools-green)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/tree/main/02-storage-pools)
+[![03 Users & Permissions](https://img.shields.io/badge/03-Users_&_Permissions-orange)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/tree/main/03-users-permissions)
+[![04 Phase 1 SMB Issues](https://img.shields.io/badge/04-Phase_1:_SMB_Issues-red)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/tree/main/04-phase1-smb-issues)
+[![05 Phase 2 Shell](https://img.shields.io/badge/05-Phase_2:_Shell_Alternative-purple)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/tree/main/05-phase2-shell-alternative)
+[![06 Phase 3 ACL](https://img.shields.io/badge/06-Phase_3:_ACL_Solution-brown)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/tree/main/06-phase3-acl-solution)
+[![07 Phase 4 Flash](https://img.shields.io/badge/07-Phase_4:_Flash_Drive-yellow)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/tree/main/07-phase4-flash-drive)
+[![08 Phase 5 SFTP](https://img.shields.io/badge/08-Phase_5:_SFTP_FileZilla-blue)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/tree/main/08-phase5-sftp-filezilla)
+[![09 Security Notice](https://img.shields.io/badge/09-Security_Notice-grey)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/tree/main/09-security-notice)
+[![10 Conclusion](https://img.shields.io/badge/10-Conclusion-brightgreen)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/tree/main/10-conclusion)
+[![Screenshots](https://img.shields.io/badge/Screenshots-Folder-lightgrey)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/tree/main/screenshots)
+
 
 
 # TrueNAS Implementation Lab
