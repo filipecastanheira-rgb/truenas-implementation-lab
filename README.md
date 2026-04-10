@@ -1,10 +1,14 @@
-![TrueNAS](https://img.shields.io/badge/TrueNAS-CORE_13.0-0093D5?logo=truenas&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-Workstation-607078?logo=vmware&logoColor=white)
-![ZFS](https://img.shields.io/badge/ZFS-Filesystem-2E8B57)
-![SMB](https://img.shields.io/badge/SMB-File_Sharing-0078D4?logo=microsoft&logoColor=white)
-![SFTP](https://img.shields.io/badge/SFTP-Secure_Transfer-4D4D4D?logo=openssh&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab)
+[![Relatório](https://img.shields.io/badge/Relatório-PDF-blue)](./TrueNAS_Lab_Final_v3.pdf)
+[![TrueNAS Docs](https://img.shields.io/badge/TrueNAS-Documentation-0093D5?logo=truenas&logoColor=white)](https://www.truenas.com/docs/)
+[![VMware](https://img.shields.io/badge/VMware-Workstation-607078?logo=vmware&logoColor=white)](https://www.vmware.com/products/workstation-pro.html)
+[![ZFS](https://img.shields.io/badge/ZFS-Filesystem-2E8B57)](https://openzfs.github.io/openzfs-docs/)
+[![SMB](https://img.shields.io/badge/SMB-File_Sharing-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview)
+[![SFTP](https://img.shields.io/badge/SFTP-Secure_Transfer-4D4D4D?logo=openssh&logoColor=white)](https://datatracker.ietf.org/doc/html/rfc4253)
+[![Issues](https://img.shields.io/github/issues/filipecastanheira-rgb/truenas-implementation-lab)](https://github.com/filipecastanheira-rgb/truenas-implementation-lab/issues)
+[![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
+[![Author](https://img.shields.io/badge/Author-Filipe_Castanheira-blue?logo=github)](https://github.com/filipecastanheira-rgb)
+
 
 # TrueNAS Implementation Lab
 
